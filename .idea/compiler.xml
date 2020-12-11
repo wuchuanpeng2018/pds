@@ -6,19 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="pu-for-springboot" />
         <module name="pu-for-annotation" />
-        <module name="pu-mybatis" />
+        <module name="pu-for-springboot" />
         <module name="pu-for-java-test" />
+        <module name="pu-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="pds-test" target="1.8" />
-      <module name="pu-for-annotation" target="11.0.8" />
-      <module name="pu-for-java-test" target="11.0.8" />
+      <module name="pu-for-annotation" target="1.8" />
+      <module name="pu-for-java-test" target="1.8" />
       <module name="pu-for-project" target="1.8" />
-      <module name="pu-for-springboot" target="11.0.8" />
-      <module name="pu-mybatis" target="11.0.8" />
+      <module name="pu-for-springboot" target="1.8" />
+      <module name="pu-mybatis" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

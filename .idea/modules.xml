@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pds.iml" filepath="$PROJECT_DIR$/.idea/pds.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pu-for-java/pu-for-java.iml" filepath="$PROJECT_DIR$/pu-for-java/pu-for-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pds-test.iml" filepath="$PROJECT_DIR$/pds-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pu-for-annotation/pu-for-annotation.iml" filepath="$PROJECT_DIR$/pu-for-annotation/pu-for-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pu-for-java-test/pu-for-java-test.iml" filepath="$PROJECT_DIR$/pu-for-java-test/pu-for-java-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/pu-for-project/pu-for-project.iml" filepath="$PROJECT_DIR$/pu-for-project/pu-for-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pu-for-springboot/pu-for-springboot.iml" filepath="$PROJECT_DIR$/pu-for-springboot/pu-for-springboot.iml" />
       <module fileurl="file://$PROJECT_DIR$/pu-for-project/pu-mybatis/pu-mybatis.iml" filepath="$PROJECT_DIR$/pu-for-project/pu-mybatis/pu-mybatis.iml" />
     </modules>
   </component>

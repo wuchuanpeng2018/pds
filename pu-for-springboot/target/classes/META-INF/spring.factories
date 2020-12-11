@@ -1,0 +1,4 @@
+org.springframework.context.ApplicationContextInitializer=\
+com.from.pu.config.InitializerConfig
+org.springframework.context.ApplicationListener=\
+com.from.pu.config.ListenerConfig
